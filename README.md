@@ -11,7 +11,7 @@ You should have the following directory structure (capitalization is important):
   - Repository Root
     - Assignment5
       - src //Your files go in here
-      - tests //Test that we eventually write will go here empty folder needs to exist for grading
+      - tests //Test that we eventually write will go here. Empty folder needs to exist for grading.
  
 Getting an A
 ------------

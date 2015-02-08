@@ -1,0 +1,15 @@
+Start: Mon, 2 Feb 2015 10:05:42 -0600
+End: Mon, 2 Feb 2015 14:12:13 -0600
+Tasks: Review assignment requirements, download and watch lectures and reading.
+
+Start: Tue, 3 Feb 2015 11:03:12 -0600
+End: Tue, 3 Feb 2015 12:34:00 -0600
+Tasks: Completed multtable and began on loopback.php
+
+Start: Thur, 5 Feb 2015 10:33:32 -0600
+End: Thur, 5 Feb 2015 14:05:35 -0600
+Tasks: Completed loopback.php, started on login.php
+
+Start: Sat, 7 Feb 2015 09:45:12 -0600
+End: Sat, 7 Feb 2015 19:07:35 -0600
+Tasks: Completed login.php. Program was finished around 1500 but then stopped working. After several hours found I needed Sessions file.
